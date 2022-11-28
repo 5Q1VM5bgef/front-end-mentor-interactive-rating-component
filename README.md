@@ -1,3 +1,7 @@
+# Solution
+![desktop](images/Solution/Screenshot%202022-11-28%20at%2003-01-03%20Frontend%20Mentor%20Interactive%20rating%20component.png)
+![desktop-active](images/Solution/Screenshot%202022-11-28%20at%2003-01-19%20Frontend%20Mentor%20Interactive%20rating%20component.png)
+![desktop-thankyou](images/Solution/Screenshot%202022-11-28%20at%2003-01-33%20Frontend%20Mentor%20Interactive%20rating%20component.png)
 # Front-end Style Guide
 
 ## Layout
